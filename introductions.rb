@@ -4,7 +4,7 @@ def introduction(name)
  puts "Hi, my name is #{name}."
 end 
 
-p introduction("Josh") 
+print introduction("Josh") 
 
 # introduction("name") 
 
