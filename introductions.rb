@@ -4,19 +4,19 @@ def introduction(name)
   puts "Hi, my name is #{name}."
 end 
 
-introduction("name") 
+# introduction("name") 
 
-def introduction_with_language(name, language)
-  puts "Hi, my name is #{name} and I am learning to program in #{language}"
-end
+# def introduction_with_language(name, language)
+#   puts "Hi, my name is #{name} and I am learning to program in #{language}"
+# end
 
-introduction_with_language("name", "language")
+# introduction_with_language("name", "language")
 
-def introduction_with_language_optional(name, language = ruby)
-  puts "Hi, my name is #{name} and I am learning to program in #{language}"
-end 
+# def introduction_with_language_optional(name, language = ruby)
+#   puts "Hi, my name is #{name} and I am learning to program in #{language}"
+# end 
 
-introduction_with_language_optional("name", "language")
+# introduction_with_language_optional("name", "language")
 
 
 # Define a Method That Takes in and Uses an Argument
