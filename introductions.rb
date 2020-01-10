@@ -1,10 +1,10 @@
 # You'll be coding your methods in lib/introduction.rb.
 
-name = "Josh"
 def introduction(name)
  puts "Hi, my name is #{name}."
 end 
- 
+
+introduction("Josh") 
 
 # introduction("name") 
 
